@@ -1,0 +1,32 @@
+.width_small{
+    width: 10;
+}
+.width_big{
+    width: 200;
+}
+
+.tgl{
+    width: 150;
+}
+.judul{
+    background-color: rgb(0, 116, 110);
+    color: white;
+    text-align: left;
+    width: 160;
+}
+.title{
+    font-size: 25px;
+}
+.content{
+    font-size: 20px;
+    text-align: left;
+}
+.text{
+    text-align: left;
+}
+.comment{
+    width: 300;
+}
+.update{
+    width: 300;
+}
